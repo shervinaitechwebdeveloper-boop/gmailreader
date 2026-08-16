@@ -3,8 +3,8 @@ from email.header import decode_header
 import imaplib
 
 # اطلاعات حساب
-EMAIL_USER = "shervin.ai.tech.webdeveloper@gmail.com"  # ایمیل خودت
-APP_PASSWORD = "gnyi nsys mnhu hfnt"  # رمز ۱۶ رقمی
+EMAIL_USER = "example@gmail.com"  # ایمیل خودت
+APP_PASSWORD = "XXXXXXXXXXXXXX"  # رمز ۱۶ رقمی
 
 try:
     # اتصال به سرور
