@@ -627,7 +627,7 @@ git push origin feature/new-feature
 ### 📧 Gmail Reader Bot
 
 **Built with Python 🐍 | Created by Shervin Moosavi**ا
-**توجه دوستان من اینو با هوش مصنوعی نوشتم برای سریع تر کردن کار**
+**توجه دوستان من اینو متن رو فقط با هوش مصنوعی نوشتم برای سریع تر کردن کار و کد اصلی کار خودمه**
 
 ⭐ If you like this project, don't forget to star the repository!
 
