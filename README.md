@@ -8,10 +8,7 @@
   <a href="#-راهنمای-فارسی">
     <img src="https://img.shields.io/badge/🇮🇷_راهنمای_فارسی-Click-blue?style=for-the-badge" alt="راهنمای فارسی">
   </a>
-  <a href="#-english-guide">
-    <img src="https://img.shields.io/badge/🇬🇧_English_Guide-Click-red?style=for-the-badge" alt="English Guide">
-  </a>
-</p>
+
 
 <p>
   <img src="https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
